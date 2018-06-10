@@ -2,6 +2,7 @@ import requests
 import sys
 print('connecting...')
 
+# init
 username = 'a valid 10 digit phone number'
 password = 'a validassword'
 message = 'some text message'
